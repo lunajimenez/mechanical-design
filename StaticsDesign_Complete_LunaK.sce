@@ -1,5 +1,5 @@
 // =============================================================================
-//  DISEÑO ESTÁTICO COMPLETO DE EJE DE TRANSMISIÓN
+//  DISEÑO ESTÁTICO COMPLETO DE EJE DE TRANSMISIÓN - En base al Nseg
 //  Luna Katalina Quintero Jiménez
 //  Universidad Tecnológica de Bolívar
 //  Introducción al Diseño Mecánico — Prof. Edgardo Arrieta
